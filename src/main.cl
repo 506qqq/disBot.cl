@@ -1,3 +1,0 @@
-;;;; ('ω')
-
-(print "Hello World")
