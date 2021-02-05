@@ -2,6 +2,7 @@
 # DiscordBot
 ## 環境的なアレ
 - Common Lisp
-  - LispCode
+  - QuickLisp
+  - LispCode(あと前提系)
   - SBCL
-- Heroku
+
